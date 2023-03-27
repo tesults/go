@@ -1,6 +1,6 @@
 package main
 
-import "./tesults"
+import "tesults.com/go/src/tesults"
 import "fmt"
 import "strconv"
 
