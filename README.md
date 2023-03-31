@@ -6,7 +6,7 @@ Tesults API library for uploading test results to Tesults in your Go application
 
 ## Installation
 
-`import "tesults.com/go"`
+`import "tesults.com/tesults"`
 
 ## Documentation
 
