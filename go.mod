@@ -1,4 +1,4 @@
-module tesults.com/tesults
+module tesults.com/go/tesults
 
 go 1.20
 
