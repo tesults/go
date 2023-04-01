@@ -1,4 +1,4 @@
-module tesults.com/tesults
+module github.com/tesults/go
 
 go 1.20
 

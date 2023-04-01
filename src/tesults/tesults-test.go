@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"tesults.com/tesults/src/tesults/tesults"
+	"github.com/tesults/go/src/tesults/tesults"
 )
 
 func main() {
