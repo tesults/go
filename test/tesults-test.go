@@ -1,13 +1,13 @@
-package tesultstest
+package test
 
 import (
 	"fmt"
 	"strconv"
 
-	"github.com/tesults/go/src/tesults/tesults"
+	"github.com/tesults/go/tesults"
 )
 
-func main() {
+func test() {
 	data := map[string]interface{}{
 		"target": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6Ijg4MjY2Y2RiLWE1YzItNGMyNi1iYzg4LTBlZWViMmIzM2M4MS0xNDkyNzg3MTE4OTA1IiwiZXhwIjo0MTAyNDQ0ODAwMDAwLCJ2ZXIiOiIwIiwic2VzIjoiMjA5ZWU2NDAtNmIzNy00YWVmLWI3YjItMWMwNzE2ZjljYThlIiwidHlwZSI6InQifQ.2QSmHLpzTLaWwckKonaztEp8QClF8Z0grTHx8Q0tHw0",
 		"results": map[string]interface{}{
